@@ -1,0 +1,13 @@
+logs/
+logs_eval/
+logs_train/
+out/
+results/*.json
+results/extra/
+*.pt
+*.pkl
+*.bak
+__pycache__/
+.venv/
+*.log
+nohup.out
